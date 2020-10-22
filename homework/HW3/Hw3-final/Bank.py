@@ -246,7 +246,3 @@ def ATMSession(bankUser):
         
         
     return Interface
-        
-        
-inter = ATMSession(BankUser("Max"))
-inter()
